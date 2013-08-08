@@ -1,8 +1,6 @@
 ###To Install
 
-1. clone the repo
-
-    git clone git@github.com:bentrevor/emblacken.git
+1. clone the repo: `git clone git@github.com:bentrevor/emblacken.git`
 
 2. go to chrome's extensions page at `chrome://extensions`
 
